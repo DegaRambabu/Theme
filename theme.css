@@ -1,0 +1,19 @@
+.light
+{
+    background-color: rgb(185, 124, 85);
+}
+button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(204, 80, 121);
+    color: aliceblue;
+}
+h1,p
+{
+    color: rgb(234, 231, 239);
+    font-size: 40px;
+}
+.dark
+{
+    background-color: black;
+}
